@@ -40,12 +40,5 @@
 		</dependency>
 	</dependencies>
 
-  <servers>
-    <server>
-      <id>maka19593</id>
-      <username>maka19593</username>
-      <password>4aeohbxy76c3t26kgmyrt55ydqk52kivlzd5pgkzcc7c65dstora</password>
-    </server>
-  </servers>
 
 </project>
